@@ -7,7 +7,6 @@ export const metadata: Metadata = {
   description:
     'Portfólio de Augusto Andrade Silva, estudante de ADS na FMU, técnico pela ETEC e estagiário na Seconci.',
 };
-
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="pt-BR">
