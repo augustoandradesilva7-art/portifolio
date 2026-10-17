@@ -1,0 +1,7 @@
+{
+  "name": "portifolio",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix portfolio-next run dev --"
+  }
+}
